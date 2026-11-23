@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6af6028d-67be-4ffa-95d5-782d03808186" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="9.164620084931899E-8" />
+      <entry key="MS500" value="0.06220712061376474" />
+      <entry key="S2" value="2.453508627501659" />
+      <entry key="S5" value="7.469545498884242" />
+      <entry key="S10" value="12.497749963262978" />
+      <entry key="S30" value="18.971640131579512" />
+      <entry key="S60" value="21.289329614294626" />
+      <entry key="M2" value="22.591016135791868" />
+      <entry key="M5" value="23.42290024918112" />
+      <entry key="M10" value="23.70914425116906" />
+      <entry key="M15" value="23.805579604055982" />
+      <entry key="M30" value="23.90253047524936" />
+      <entry key="H1" value="23.951200209191676" />
+      <entry key="H2" value="23.975583822826344" />
+      <entry key="H4" value="23.98778783788383" />
+      <entry key="D1" value="23.99796407361712" />
+      <entry key="W1" value="23.999709139508493" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.4071478590410516E-7" />
+      <entry key="MS500" value="0.09011346852273522" />
+      <entry key="S2" value="2.822639375642235" />
+      <entry key="S5" value="8.072239426405474" />
+      <entry key="S10" value="13.231875243710054" />
+      <entry key="S30" value="19.856089156823234" />
+      <entry key="S60" value="22.226963113668646" />
+      <entry key="M2" value="23.558566722849193" />
+      <entry key="M5" value="24.409600083132013" />
+      <entry key="M10" value="24.702439330160757" />
+      <entry key="M15" value="24.80109736173914" />
+      <entry key="M30" value="24.900283179191714" />
+      <entry key="H1" value="24.95007501227781" />
+      <entry key="H2" value="24.9750208365013" />
+      <entry key="H4" value="24.987506247673302" />
+      <entry key="D1" value="24.997917128429595" />
+      <entry key="W1" value="24.99970243272278" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3MVaQzEgjWbqYhvUs2mf3MD0iQ8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6af6028d-67be-4ffa-95d5-782d03808186" name="Changes" comment="" />
+      <created>1795438176859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795438176859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
